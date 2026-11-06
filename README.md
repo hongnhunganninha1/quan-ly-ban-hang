@@ -20,5 +20,5 @@
 ## Cách chạy
 1. Cài **MySQL** và **Visual Studio** (có .NET 10, workload *.NET desktop development*).
 2. Chạy file `SQL/TAO_DATABASE_MOI.sql` trong MySQL để tạo database `shopthoitrang`.
-3. Mở `Database.cs`, sửa `Password=` cho đúng mật khẩu MySQL trên máy bạn.
+3. Mở `Database.cs`, sửa ` Password=YOUR_PASSWORD`.
 4. Mở `QuanLyBanHang.slnx` bằng Visual Studio và nhấn **F5**.
